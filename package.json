@@ -15,7 +15,7 @@
     "dot-object": "^2.1.2",
     "fecha": "^4.0.0",
     "jwt-decode": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pluralize": "^8.0.0",
     "vue": "^2.6.11",
     "vue-body-class": "^3.0.2",
